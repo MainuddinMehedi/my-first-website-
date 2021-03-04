@@ -1,0 +1,16 @@
+.container{
+    background-color: aliceblue;
+}
+div{
+    height: 100px;
+    width: 100px;
+}
+.first{
+    background-color: black;
+}
+.second{
+    background-color: brown;
+}
+.third{
+    background-color: chartreuse;
+}
