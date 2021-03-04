@@ -7,10 +7,14 @@ div{
 }
 .first{
     background-color: black;
+    color: cornsilk;
 }
 .second{
     background-color: brown;
 }
 .third{
     background-color: chartreuse;
+}
+.forth{
+    background: rgb(106, 67, 151);
 }
